@@ -1,4 +1,4 @@
-# Lab Question AI System
+# quizForge
 
 ## Overview
 
